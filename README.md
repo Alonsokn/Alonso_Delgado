@@ -7,6 +7,8 @@
 
 ## Como ejecutar el proyecto
 
+Pagina a automatizar: https://magento.softwaretestingboard.com/
+
 Al descargar el proyecto actualizar el mvn con Syn Maven Projects
 
 
